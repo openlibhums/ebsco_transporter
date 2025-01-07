@@ -1,6 +1,6 @@
-# Science Open Transporter
+# EBSCO Transporter
 
-An FTP plugin for depositing works with Science Open.
+An FTP plugin for depositing works with EBSCO.
 
 ## Install
 
